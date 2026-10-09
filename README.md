@@ -1,48 +1,76 @@
 <div align="center">
 
-# Hi, I'm Petru 👋
+<img src="./assets/profile-banner.svg" alt="Petru Carp — Software Development, Applied AI and Automation" width="100%" />
 
-**Software Development · Applied AI · Automation**
+<br />
 
-*Building practical software for real-world problems.*
+**Building practical software for real-world problems.**
+
+<a href="https://github.com/petru-carp30?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_projects-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects"></a>
+<a href="https://github.com/petru-carp30/AVAX-ALPR"><img src="https://img.shields.io/badge/Featured:_AVAX_ALPR-0369a1?style=for-the-badge" alt="AVAX ALPR"></a>
 
 </div>
 
----
+## About me
 
-### 👨‍💻 About me
+I build software with a focus on **practical problems, clear architecture, and real-world usability**. My interests and hands-on projects span desktop applications, Android, backend systems, machine learning, and computer vision.
 
-I enjoy designing and building software that makes complex tasks simpler. My projects span **desktop applications**, **Android development**, **backend systems**, **computer vision**, and **machine learning**.
+I enjoy taking an idea from early exploration to an implementation that can be tested, used, and improved.
 
-I'm particularly interested in reliable, maintainable solutions that connect software with real operational needs.
+## Selected work
 
-### 🚀 Featured projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-#### 🚘 [AVAX ALPR — Offline-First Vehicle Access Control](https://github.com/petru-carp30/AVAX-ALPR)
+### 🚘 [AVAX ALPR](https://github.com/petru-carp30/AVAX-ALPR)
 
-A modular license plate recognition and access-control system designed for environments with unreliable connectivity. Combines on-device plate detection and OCR, offline verification, local logging, and background synchronization.
+**Offline-first vehicle access control**
 
-`Kotlin` · `CameraX` · `YOLOX` · `ML Kit` · `ASP.NET Core` · `SQL Server`
+License plate recognition for site gates, combining on-device detection and OCR with local verification, access logging, and background sync.
 
-#### 🏢 [OrganigramGenerator — Interactive Organization Charts](https://github.com/petru-carp30/OrganigramGenerator)
+<sub><b>Kotlin · CameraX · YOLOX · ML Kit · ASP.NET Core · SQL Server</b></sub>
 
-A Windows desktop application that transforms employee data from Excel into interactive organizational charts, with hierarchy validation, drag-and-drop editing, and PDF printing.
+</td>
+<td width="50%" valign="top">
 
-`VB.NET` · `WPF` · `.NET 10` · `Excel`
+### 🏢 [OrganigramGenerator](https://github.com/petru-carp30/OrganigramGenerator)
 
-#### 🧠 [Lyapunov-Net — Neural Network Stability Research](https://github.com/petru-carp30/Lyapunov-Net)
+**Interactive organizational charts**
 
-An experimental neural network framework exploring Lyapunov stability principles for nonlinear dynamical systems, with configurable training and visualizations.
+Windows desktop application for generating and editing organization charts from Excel employee data, with hierarchy validation and PDF printing.
 
-`Python` · `PyTorch` · `Matplotlib`
+<sub><b>VB.NET · WPF · .NET 10 · Excel</b></sub>
 
-#### 🔢 [Matrix — C++ Mathematical Application](https://github.com/petru-carp30/Matrix)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-An interactive C++ console application for matrix operations, determinants, inverses, and other linear algebra calculations.
+### 🧠 [Lyapunov-Net](https://github.com/petru-carp30/Lyapunov-Net)
 
-`C++` · `Algorithms` · `Linear Algebra`
+**Neural network stability research**
 
-### 🛠️ Technologies & tools
+Experimental framework for exploring Lyapunov stability principles in nonlinear dynamical systems, including training and visualization tools.
+
+<sub><b>Python · PyTorch · Matplotlib</b></sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔢 [Matrix](https://github.com/petru-carp30/Matrix)
+
+**Linear algebra in C++**
+
+Interactive console application with matrix arithmetic, determinants, inverses, transposition, and other mathematical operations.
+
+<sub><b>C++ · Algorithms · Linear Algebra</b></sub>
+
+</td>
+</tr>
+</table>
+
+## Tech stack
 
 **Languages**
 
@@ -52,7 +80,7 @@ An interactive C++ console application for matrix operations, determinants, inve
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-**Frameworks & platforms**
+**Frameworks, platforms & tools**
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
@@ -60,17 +88,15 @@ An interactive C++ console application for matrix operations, determinants, inve
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 🎯 Areas of interest
+## What I'm exploring
 
-- Applied AI and computer vision
-- Workflow automation and practical desktop tools
-- Offline-first mobile applications
-- Backend architecture and data systems
+- **Applied AI:** computer vision, machine learning, and intelligent tools
+- **Automation:** software that reduces repetitive operational work
+- **Reliable systems:** offline-first mobile apps, backend APIs, and data workflows
+- **Engineering craft:** better architecture, testing, and maintainability
 
 ---
 
 <div align="center">
-
-*Learning, building, and improving — one project at a time.*
-
+<sub>Build it. Test it. Make it better.</sub>
 </div>
